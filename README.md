@@ -1,17 +1,22 @@
-# TODO列表
+# TODO List
 
-#### 介绍
+#### Introduction
 
 
 
-#### 软件架构
+#### Software Architecture
 Apache+PHP+MySQL+Laravel
 
 
-#### 安装教程
+#### Installation tutorial
 
-为了节省时间，项目采用集成环境进行开发，下载新版的phpstudy安装即可，下载完成后运行，选择Apache2.4，MySQL5.7以及PHP7.2进行启动即可，然后通过phpstudy的网站功能配置虚拟主机可以使用
-#### 使用说明
+In order to save time, the project is developed using an integrated environment. Download the new version of phpstudy
+and install it. Please remember to choose the PHP program storage directory (the folder is www).
+#### Instructions for use
 
+Put the program in the 'www' folder and open PHPStudy. Open the Apache and MySQL packages on the homepage, select "Create
+Website" in the website bar, fill in the domain name and port you want to use, and select the public folder of the 
+program in the root directory. The PHP version is recommended to use 7.2. The database account and password are both 
+root by default. After completing the above operations, enter the domain name you set in the browser to use the program.
 
 
